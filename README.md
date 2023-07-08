@@ -2,6 +2,9 @@
 企业GPT+应用首选集成方案，简单实用的一站式AGI架构，内置本地化，LLM模型，agent，矢量数据库，智能链链
 
 mini-AGI是zw-AGI的免费开源版本，删除了部分商务模块。
+
+https://github.com/ziwang-com/mini-AGI
+
 <img width="271" alt="mini-agi-logo" src="https://github.com/ziwang-com/miniAGI/assets/11691791/b1f9f547-205c-4c17-8f21-3ff834874ef0">
 
 
